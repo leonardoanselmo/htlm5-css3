@@ -1,0 +1,26 @@
+.main_blog {
+    width: 800px;
+    background-color: #CCC;
+    padding: 40px;
+    margin: 0 auto;
+}
+
+.main_blog article {
+    padding: 20px;
+    background-color: #333;
+    color: #FFF;
+    margin: 20px 0;
+}
+
+.main_blog article h3 {
+    color: red;
+}
+
+
+/*
+.main_blog p {
+    color: green;
+    text-align: center;
+    font-size: 1.5em;
+}
+*/
